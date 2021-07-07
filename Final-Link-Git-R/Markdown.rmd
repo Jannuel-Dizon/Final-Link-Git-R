@@ -1,0 +1,10 @@
+---
+title: "My first markdown"
+author: "Jannuel Lauro T. Dizon"
+date: "7/7/2021"
+---
+
+
+## Start
+
+My name is Jannuel Lauro T. Dizon and I live in Havila Taytay Rizal. I am currently 19 years old, turning 20 this November 8. and I am also studying BS Computer Engineering in Ateneo De Manila University.
